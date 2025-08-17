@@ -1,10 +1,11 @@
-# About me
+# RM503
 
 **`Cosmologist/Data Scientist/Educator`**
 
-I am a cosmologist and data scientist, interested in applying data driven solutions to solving real world problems in environment, agriculture and healthcare. 
+## About me
+I am a cosmologist, educator, and data scientist focused on applying data-driven solutions to energy, environment, and healthcare challenges. Skilled in Python, SQL, and modern ML tools, I have experience building scalable pipelines, improving model performance, and deploying web apps to deliver actionable insights.
 
-### Languages and Tools
+## Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />          
@@ -20,3 +21,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgr
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
                     
+## Publications
+For a list of authored papers, please visit the following link - [InspireHEP](https://inspirehep.net/authors/1622353?ui-citation-summary=true)
