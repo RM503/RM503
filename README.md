@@ -3,7 +3,9 @@
 **`Cosmologist/Data Scientist/Educator`**
 
 ## About me
-I am a cosmologist, educator, and data scientist focused on applying data-driven solutions to energy, environment, and healthcare challenges. Skilled in Python, SQL, and modern ML tools, I have experience building scalable pipelines, improving model performance, and deploying web apps to deliver actionable insights.
+I am a cosmologist, educator, and data scientist focused on applying data-driven solutions to energy, environment, and healthcare challenges. Skilled in Python, SQL, and modern ML tools (scikit-learn, PyTorch, LangChain), I have experience building scalable pipelines, improving model performance, and deploying web apps to deliver actionable insights.
+
+Currently I am involved with DataKind, working on a long-term project aimed at using data-driven methods at improving circular economy prospects in Kenya.
 
 ## Languages and Tools
 
