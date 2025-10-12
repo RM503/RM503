@@ -26,4 +26,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgr
 <img align="left" alt="Wolfram" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wolfram/wolfram-original.svg" />
 
 ## Stats
-![My Github stats] (https://github-readme-stats.vercel.app/api?username=RM503&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=RM503&theme=synthwave&show_icons=true&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RM503&theme=synthwave&show_icons=true&hide_border=true&layout=compact" width="36.5%" />
+</p>
